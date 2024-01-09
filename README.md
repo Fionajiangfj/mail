@@ -15,14 +15,14 @@ This project is an implementation of the "Mail" assignment from CS50's Web Progr
 ## Technologies Used
 
 - Frontend: HTML, CSS (Bootstrap), JavaScript
-- Backend: Python (Django) - Provided by CS50
-- Database: SQLite - Provided by CS50
-
+- Backend: Python (Django)
+- Database: SQLite
+- 
 ## Setup and Running the Project
 
 1. **Clone the Repository:** `git clone https://github.com/Fionajiangfj/mail`
 2. **Navigate to the Project Directory:** `cd mail`
-3. **Install Dependencies (if any):** `pip install -r requirements.txt`
+3. **Install Dependencies:** `pip install -r requirements.txt`
 4. **Run Migrations:** `python manage.py migrate`
 5. **Start the Server:** `python manage.py runserver`
 6. **Access the Application:** Open a web browser and navigate to `http://localhost:8000`.
