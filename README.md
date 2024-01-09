@@ -17,7 +17,7 @@ This project is an implementation of the "Mail" assignment from CS50's Web Progr
 - Frontend: HTML, CSS (Bootstrap), JavaScript
 - Backend: Python (Django)
 - Database: SQLite
-- 
+  
 ## Setup and Running the Project
 
 1. **Clone the Repository:** `git clone https://github.com/Fionajiangfj/mail`
@@ -30,7 +30,3 @@ This project is an implementation of the "Mail" assignment from CS50's Web Progr
 ## Additional Notes
 
 - Ensure Python and Django are installed in your development environment.
-
-## Contributing
-
-This project is part of an academic course and is generally not open for external contributions. However, feedback and suggestions are welcome.
